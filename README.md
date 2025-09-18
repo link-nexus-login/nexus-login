@@ -4,11 +4,11 @@ Nexus Market is a significant presence in the world of darknet marketplaces, giv
 
 ## Accessing Nexus Market: The Official Login
 
-http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion
+http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion
 
-[<img src="/settings/area.webp" width="200">](http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion)
+[<img src="/settings/area.webp" width="200">](http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion)
 
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/settings/page.webp" alt="image" style="max-width: 100%;"></a>
+<a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/settings/page.webp" alt="image" style="max-width: 100%;"></a>
 
 This content is strictly for educational and informational purposes, aiming to shed light on the structure and mechanics of the darkweb. We do not receive any commissions or benefits from affiliate links, nor are we affiliated with any legal entities. Our goal is to encourage safe and informed exploration of the darkweb without supporting or endorsing illegal activities.
 
@@ -36,11 +36,13 @@ To effectively navigate Nexus Market, it is recommended that you implement these
 -   **Privacy Focused**: Prioritize the use of secure browsers like Tor to protect your identity and browsing activity.
 -   **Careful Transactions**: Use trusted mirrors and exercise caution when you are engaging in transactions to minimize risks.
 
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/settings/init.webp" alt="image" style="max-width: 100%;"></a>
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/settings/opaque.webp" alt="image" style="max-width: 100%;"></a>
+<a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/settings/init.webp" alt="image" style="max-width: 100%;"></a>
+<a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/settings/opaque.webp" alt="image" style="max-width: 100%;"></a>
 
 ---
 
 ### Legal Disclaimer:
 
 This guide is exclusively for educational purposes. The information supplied is intended to enhance your understanding of darknet operations. We neither endorse nor promote any illegal activities. Always adhere to the relevant laws and regulations in your jurisdiction.
+
+Update:  18 September
